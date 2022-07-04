@@ -1,0 +1,55 @@
+header{
+    display: flex;
+    justify-content: center;
+}
+table{
+    width: 70%;
+    background-color: rgba(240,61,115,0.24);
+}
+img{
+    display:flex;
+    justify-content:left;
+}
+main{
+    display: flex;
+    justify-content:center;
+
+}
+tr{
+    background-color: black;
+}
+
+th{
+    color: rgb(255, 7, 7);
+    justify-content: center;
+}
+td{
+    color:rgb(255, 255, 255);
+    justify-content: center;
+}
+body{
+    background-image: url;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    color:rgb(255,0,0);
+}
+footer{
+    height: 100px;
+}
+th{
+    color:red;
+}
+a{
+    color:rgb(174, 255, 34)
+}
+body{
+    background-color: aquamarine;
+    background-image: url(/asset/imagenes/fondo1.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    color:red
+}
